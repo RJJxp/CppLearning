@@ -1,0 +1,3 @@
+add_subdirectory(test_01_02)
+add_subdirectory(test_01_07)
+add_subdirectory(test_01_08)
